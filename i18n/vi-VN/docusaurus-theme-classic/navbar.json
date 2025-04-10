@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Green Software cho cho người trong nghề",
+    "description": "The title in the navbar"
+  },
+  "item.label.Take the exam": {
+    "message": "Làm bài test",
+    "description": "Navbar item with label Take the exam"
+  },
+  "item.label.a Green Software Foundation project": {
+    "message": "một dự án của Green Software Foundation",
+    "description": "Navbar item with label a Green Software Foundation project"
+  }
+}
