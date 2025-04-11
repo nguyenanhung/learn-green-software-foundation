@@ -1,22 +1,22 @@
 ---
 sidebar_position: 9
-title: Glossary
+title: Từ điển & Thuật ngữ
 ---
 
 :::note
-This is a community contributed translation. It has limited support and might not match the latest English language version of the course.
+Đây là bản dịch cộng đồng. Nó có hỗ trợ giới hạn và có thể không khớp với phiên bản tiếng Anh mới nhất của khóa học.
 :::
 
-## Acronyms
+## Thuật ngữ
 
 
 <table>
   <tr>
-   <td><strong>Term</strong>
+   <td><strong>Hạng mục</strong>
    </td>
-   <td><strong>Acronym</strong>
+   <td><strong>Thuật ngữ</strong>
    </td>
-   <td><strong>Definition</strong>
+   <td><strong>Định nghĩa</strong>
    </td>
   </tr>
   <tr>
@@ -24,7 +24,7 @@ This is a community contributed translation. It has limited support and might no
    </td>
    <td><strong>GHGs</strong>
    </td>
-   <td>Greenhouse gases<strong> </strong>are a group of gases that trap heat from solar radiation in the Earth's atmosphere. These gases act as a blanket, increasing the temperature on the surface of the Earth.
+   <td>Khí nhà kính<strong> </strong>là một nhóm các khí giữ nhiệt từ bức xạ mặt trời trong bầu khí quyển của Trái đất. Những khí này hoạt động như một tấm chăn, làm tăng nhiệt độ trên bề mặt Trái đất.
    </td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@ This is a community contributed translation. It has limited support and might no
    </td>
    <td><strong>CO2</strong>
    </td>
-   <td>One of the most common greenhouse gases.
+   <td>Một trong những loại khí nhà kính phổ biến nhất.
    </td>
   </tr>
   <tr>
@@ -40,7 +40,7 @@ This is a community contributed translation. It has limited support and might no
    </td>
    <td><strong>CH4</strong>
    </td>
-   <td>A common gaseous hydrocarbon, which has a warming effect 84 times that of CO2 over 20 years and 28 times that of CO2 over 100 years.
+   <td>Một hydrocarbon khí phổ biến, có hiệu ứng làm ấm gấp 84 lần so với CO2 trong 20 năm và 28 lần so sánh với CO 2 trong 100 năm.
    </td>
   </tr>
   <tr>
@@ -48,7 +48,7 @@ This is a community contributed translation. It has limited support and might no
    </td>
    <td><strong>SF6</strong>
    </td>
-   <td>A man-made gas used as an electrical insulator that has a warming effect 23,500 times that of CO2. 
+   <td>Một loại khí nhân tạo được sử dụng như một chất cách điện có hiệu ứng làm ấm gấp 23.500 lần so với CO2.
    </td>
   </tr>
   <tr>
@@ -56,7 +56,7 @@ This is a community contributed translation. It has limited support and might no
    </td>
    <td><strong>CO2eq / CO2-eq / CO2e</strong>
    </td>
-   <td>Carbon is used as a common form of measurement for all greenhouse gases. This unit of measurement indicates the potential impact of non-CO2 gases on global warming in carbon terms.
+   <td>Carbon được sử dụng như một hình thức đo lường phổ biến cho tất cả các loại khí nhà kính. Đơn vị đo lường này chỉ ra tác động tiềm năng của các khí không phải CO2 đối với sự nóng lên toàn cầu về mặt carbon.
    </td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@ This is a community contributed translation. It has limited support and might no
    </td>
    <td><strong>kWh</strong>
    </td>
-   <td>The standard unit of measurement for energy consumption.
+   <td>Đơn vị đo tiêu chuẩn cho tiêu thụ năng lượng.
    </td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ This is a community contributed translation. It has limited support and might no
    </td>
    <td><strong>PUE</strong>
    </td>
-   <td>The metric used to measure data center energy efficiency. 
+   <td>Số liệu được sử dụng để đo lường hiệu quả năng lượng của trung tâm dữ liệu.
    </td>
   </tr>
   <tr>
@@ -88,7 +88,7 @@ This is a community contributed translation. It has limited support and might no
    </td>
    <td><strong>WMO</strong>
    </td>
-   <td>A specialized agency of the United Nations whose mandate covers weather, climate and water resources.
+   <td>Tác động tiềm tàng của khí nhà kính đối với sự nóng lên toàn cầu. Đánh giá bằng CO2
    </td>
   </tr>
   <tr>
@@ -96,7 +96,7 @@ This is a community contributed translation. It has limited support and might no
    </td>
    <td><strong>MMTCDE</strong>
    </td>
-   <td>Measurement term for CO2eq
+   <td>Thuật ngữ đo cho CO2eq
    </td>
   </tr>
   <tr>
@@ -104,7 +104,7 @@ This is a community contributed translation. It has limited support and might no
    </td>
    <td><strong>NDC</strong>
    </td>
-   <td>The means by which members of the Paris Climate Agreement are expected to update their progress.
+   <td>Các phương tiện mà các thành viên của Hiệp định Khí hậu Paris dự kiến sẽ cập nhật tiến độ của họ.
    </td>
   </tr>
   <tr>
@@ -112,7 +112,7 @@ This is a community contributed translation. It has limited support and might no
    </td>
    <td><strong>COP</strong>
    </td>
-   <td>An annual event involving all parties in the United Nations Framework Convention on Climate Change. 
+   <td>Một sự kiện thường niên liên quan đến tất cả các bên tham gia Công ước khung của Liên Hợp Quốc về biến đổi khí hậu.
    </td>
   </tr>
   <tr>
@@ -120,7 +120,7 @@ This is a community contributed translation. It has limited support and might no
    </td>
    <td><strong>UNFCCC</strong>
    </td>
-   <td>A group created to achieve the stabilization of greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous interference with the climate system.
+   <td>Một nhóm được thành lập để đạt được sự ổn định của nồng độ khí nhà kính trong khí quyển ở mức độ sẽ ngăn chặn sự can thiệp nguy hiểm vào hệ thống khí hậu.
    </td>
   </tr>
   <tr>
@@ -128,7 +128,7 @@ This is a community contributed translation. It has limited support and might no
    </td>
    <td><strong>IPCC</strong>
    </td>
-   <td>The objective of the IPCC is to provide governments at all levels with scientific information that they can use to develop climate policies.
+   <td>Mục tiêu của IPCC là cung cấp cho các chính phủ ở mọi cấp độ thông tin khoa học mà họ có thể sử dụng để phát triển các chính sách khí hậu.
    </td>
   </tr>
   <tr>
@@ -136,7 +136,7 @@ This is a community contributed translation. It has limited support and might no
    </td>
    <td><strong>SBTi</strong>
    </td>
-   <td>A body that defines and promotes best practice in science-based target setting. For example, creating the standards for net zero
+   <td>Một cơ thể xác định và thúc đẩy thực hành tốt nhất trong thiết lập mục tiêu dựa trên khoa học. Ví dụ, tạo ra các tiêu chuẩn cho net-zero
    </td>
   </tr>
   <tr>
@@ -144,7 +144,7 @@ This is a community contributed translation. It has limited support and might no
    </td>
    <td><strong>CFE</strong>
    </td>
-   <td>This term is usually used to talk about the percentage of renewable energy used as a proportion of the total energy used
+   <td>Thuật ngữ này thường được sử dụng để nói về tỷ lệ phần trăm của năng lượng tái tạo được sử dùng như một tỷ lệ của tổng năng lượng được sử dung
    </td>
   </tr>
   <tr>
@@ -152,7 +152,7 @@ This is a community contributed translation. It has limited support and might no
    </td>
    <td><strong>PPA</strong>
    </td>
-   <td>A contract you sign with a power plant to purchase RECs
+   <td>Một hợp đồng mà anh ký với nhà máy điện để mua RECs
    </td>
   </tr>
   <tr>
@@ -160,7 +160,7 @@ This is a community contributed translation. It has limited support and might no
    </td>
    <td><strong>REC</strong>
    </td>
-   <td>Renewable energy credits (also known as renewable energy certificates) represent the energy generated by renewable energy sources
+   <td>Tín dụng năng lượng tái tạo (còn được gọi là chứng nhận năng lượng có thể tái tạo) đại diện cho năng lượng được tạo ra bởi các nguồn năng lượng phục hồi
    </td>
   </tr>
   <tr>
@@ -168,7 +168,7 @@ This is a community contributed translation. It has limited support and might no
    </td>
    <td><strong>PCA</strong>
    </td>
-   <td>An international treaty agreed in 2015 by 196 parties and the UN to reduce the Earth's temperature increase
+   <td>Một hiệp ước quốc tế đã đồng ý vào năm 2015 bởi 196 bên và Liên Hợp Quốc để giảm sự gia tăng nhiệt độ Trái Đất
    </td>
   </tr>
   <tr>
@@ -176,7 +176,7 @@ This is a community contributed translation. It has limited support and might no
    </td>
    <td><strong>J</strong>
    </td>
-   <td>Energy is measured in <strong>joules (J)</strong>. 
+   <td>Năng lượng được đo lường bằng <strong>joules (J)</strong>.
    </td>
   </tr>
   <tr>
@@ -184,7 +184,7 @@ This is a community contributed translation. It has limited support and might no
    </td>
    <td><strong>gCO2eq/kWh</strong>
    </td>
-   <td>The standard unit of carbon intensity is <strong>gCO2eq/kWh</strong>, or grams of carbon per kilowatt hour.
+   <td>Đơn vị tiêu chuẩn của cường độ carbon là <strong> gCO 2 eq / kWh</strong>, hoặc gam carbon mỗi kilowatt giờ.
    </td>
   </tr>
   <tr>
@@ -192,7 +192,7 @@ This is a community contributed translation. It has limited support and might no
    </td>
    <td><strong>VCM</strong>
    </td>
-   <td>A decentralized market where private actors voluntarily buy and sell carbon credits that represent certified removals or reductions of greenhouse gases (GHGs) in the atmosphere. 
+   <td>Một thị trường phi tập trung nơi các chủ thể tư nhân tự nguyện mua và bán các khoản tín dụng carbon đại diện cho việc loại bỏ hoặc giảm khí nhà kính (GHG) trong khí quyển.
    </td>
   </tr>
   <tr>
@@ -200,7 +200,7 @@ This is a community contributed translation. It has limited support and might no
    </td>
    <td><strong>VCS</strong>
    </td>
-   <td>A standard for certifying carbon emissions reductions.
+   <td>Một tiêu chuẩn để xác nhận việc giảm lượng khí thải carbon.
    </td>
   </tr>
   <tr>
@@ -208,17 +208,17 @@ This is a community contributed translation. It has limited support and might no
    </td>
    <td><strong>SCI</strong>
    </td>
-   <td>A standard which gives an actionable approach to software designers, developers and operations to measure the carbon impacts of their systems.
+   <td>Một tiêu chuẩn cung cấp một cách tiếp cận có thể thực hiện cho các nhà thiết kế phần mềm, nhà phát triển và các hoạt động để đo lường tác động carbon của hệ thống của họ.
    </td>
   </tr>
 </table>
 
-## Useful Terms
+## Những nguyên tắc chính
 
-* [Carbon Intensity](./carbon-awareness/#carbon-intensity) - Measures the amount of greenhouse gases emitted per unit of electricity produced.
-* [Demand Shaping](./carbon-awareness/#demand-shaping) - The strategy of shaping our computation to match the existing clean electricity supply.
-* [Greenhouse Gas protocol](https://ghgprotocol.org) - The most widely used and internationally recognized greenhouse gas accounting standard.
-* [Value chain emissions](https://www.cisl.cam.ac.uk/education/graduate-study/pgcerts/value-chain-defs) - These are scope 3 emissions according to the GHG protocol, and the most significant source of emissions. They encompass the full range of activities needed to create a product or service, from conception to distribution.
-* [Energy proportionality](./energy-efficiency/#energy-proportionality) - Measures the relationship between power consumed by a computer and the rate at which useful work is done (its utilization).
-* [Static power draw](./energy-efficiency/#static-power-draw) - This refers to how much electricity is drawn when a device is in an idle state. 
-* [Embodied Carbon](./hardware-efficiency/#embodied-carbon) (also known as "embedded carbon") - The amount of carbon pollution emitted during the creation and disposal of a device.
+* [Carbon Intensity](./carbon-awareness/#carbon-intensity) - Đo lượng khí nhà kính phát ra trên mỗi đơn vị điện được sản xuất.
+* [Demand Shaping](./carbon-awareness/#demand-shaping) - Chiến lược định hình các tính toán của chúng ta để phù hợp với nguồn cung cấp điện sạch hiện có.
+* [Greenhouse Gas protocol](https://ghgprotocol.org) - Tiêu chuẩn kế toán khí nhà kính được sử dụng rộng rãi nhất và được quốc tế công nhận.
+* [Value chain emissions](https://www.cisl.cam.ac.uk/education/graduate-study/pgcerts/value-chain-defs) - Đây là các loại khí thải trong phạm vi 3 theo giao thức GHG và là nguồn phát thải quan trọng nhất. Chúng bao gồm toàn bộ các hoạt động cần thiết để tạo ra một sản phẩm hoặc dịch vụ, từ quan niệm đến phân phối.
+* [Energy proportionality](./energy-efficiency/#energy-proportionality) - Đo mối quan hệ giữa năng lượng tiêu thụ của máy tính và tốc độ thực hiện công việc hữu ích (sử dụng của nó).
+* [Static power draw](./energy-efficiency/#static-power-draw) - Điều này đề cập đến lượng điện được rút ra khi một thiết bị ở trạng thái không hoạt động.
+* [Embodied Carbon](./hardware-efficiency/#embodied-carbon) (hay còn được gọi là "embedded carbon") - Lượng ô nhiễm carbon thải ra trong quá trình tạo và xử lý thiết bị.
