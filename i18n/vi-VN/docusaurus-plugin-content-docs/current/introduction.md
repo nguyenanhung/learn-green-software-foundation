@@ -1,51 +1,51 @@
 ---
 sidebar_position: 2
-title: Introduction
+title: Giới thiệu
 ---
 
 :::note
-This is a community contributed translation. It has limited support and might not match the latest English language version of the course.
+Đây là bản dịch cộng đồng đóng góp. Nó có sự hỗ trợ hạn chế và có thể không phù hợp với phiên bản tiếng Anh mới nhất của khoá học.
 :::
 
-## What is green software?
+## Phần mềm xanh là gì?
 
-Green software is an emerging discipline at the intersection of climate science, software design, electricity markets, hardware, and data center design.
+Phần mềm xanh là một ngành mới nổi tại giao điểm của khoa học khí hậu, thiết kế phần mềm, thị trường điện, phần cứng và thiết kế trung tâm dữ liệu.
 
-Green software is carbon-efficient software, meaning it emits the least carbon possible. Only three activities reduce the carbon emissions of software; energy efficiency, carbon awareness, and hardware efficiency. This training will explain all of these concepts, how to apply them to your processes and how to measure them, as well as some of the international guidelines and organizations that guide and monitor this space.
+Phần mềm xanh là phần mềm tiết kiệm carbon, có nghĩa là nó thải ra ít carbon nhất có thể. Chỉ có ba hoạt động làm giảm lượng khí thải carbon của phần mềm; hiệu quả năng lượng, nhận thức carbon và hiệu quả phần cứng. Khoá đào tạo này sẽ giải thích tất cả các khái niệm này, cách áp dụng chúng vào các quy trình và cách đo lường chúng, cũng như một số hướng dẫn và tổ chức quốc tế hướng dẫn, giám sát không gian này.
 
 ![alt_text](./images/01_carbon_efficiency.png "image_tooltip")
 
-## Who should read this?
+## Ai nên đọc bài viết này?
 
-Anyone involved in the process of building, deploying, or managing software. By studying these principles, a green software practitioner can make decisions that have a meaningful impact on the carbon pollution of their applications.
+Bất cứ ai liên quan đến quá trình xây dựng, triển khai hoặc quản lý phần mềm. Bằng cách nghiên cứu các nguyên tắc này, một học viên phần mềm xanh có thể đưa ra các quyết định có tác động có ý nghĩa đến sự ô nhiễm carbon của các ứng dụng của họ.
 
-## History
+## Lịch sử
 
-In 2019 the original eight principles of green software engineering were released. This 2022 update of the principles took on feedback received over the years, merging some principles and adding a new one regarding understanding climate commitments.
+Năm 2019, tám nguyên tắc ban đầu của kỹ thuật phần mềm xanh đã được phát hành. Bản cập nhật năm 2022 của các nguyên tắc này dựa trên phản hồi nhận được trong những năm qua, kết hợp một số nguyên tắc và thêm một bản mới liên quan đến việc hiểu các cam kết khí hậu.
 
-## How to be a green software practitioner
+## Làm thế nào để trở thành một chuyên viên phần mềm xanh
 
-The following training covers 6 key areas that a green software practitioner should know:
+Khoá đào tạo sau đây bao gồm 6 lĩnh vực chính mà một học viên phần mềm xanh cần biết:
 
-1. **Carbon Efficiency**: Emit the least amount of carbon possible.
-2. **Energy Efficiency**: Use the least amount of energy possible.
-3. **Carbon Awareness**: Do more when the electricity is cleaner and do less when the electricity is dirtier.
-4. **Hardware Efficiency**: Use the least amount of embodied carbon possible.
-5. **Measurement**: What you can't measure, you can't improve.
-6. **Climate Commitments**: Understand the exact mechanism of carbon reduction.
+1. Carbon Efficiency: Phát thải lượng carbon tối thiểu có thể.
+2. Energy Efficiency: Sử dụng lượng năng lượng tối thiểu có thể.
+3. Carbon Awareness: Làm nhiều hơn khi điện sạch hơn và ít hơn khi có nhiều ô nhiễm hơn.
+4. Hardware Efficiency: Sử dụng lượng carbon tiêu tốn tối thiểu.
+5. Measurement: Cái gì không đo đạc được thì không thể cải thiện được.
+6. Climate Commitments: Hiểu rõ cơ chế chính xác của việc giảm cacbon.
 
-Each of these chapters will introduce some new concepts and explain in detail why they are important in terms of the climate, and how you can apply them to your green software practices.
+Mỗi chương sẽ giới thiệu một số khái niệm mới và giải thích chi tiết tại sao chúng lại quan trọng về mặt khí hậu, và làm thế nào bạn có thể áp dụng chúng vào thực tiễn phần mềm xanh của bạn.
 
-## Principles, Patterns, and Practices.
+## Nguyên tắc, Mô hình và Thực hành.
 
-This course's key areas and content describe the **principles** of green software, a core set of competencies needed to define, run and build green software.
+Các lĩnh vực và nội dung chính của khoá học này mô tả các nguyên tắc của phần mềm xanh, một tập hợp các năng lực cốt lõi cần thiết để xác định, chạy và xây dựng phần mềm màu xanh.
 
-A green software [**pattern**](https://patterns.greensoftware.foundation/) is a specific example of how to apply one or more principles in a real-world example. Whereas principles describe the theory that underpins green software, patterns are the practical advice software practitioners can use in their software applications today. Patterns are vendor-neutral.
+Phần mềm xanh [**pattern**] (https://patterns.greensoftware.foundation/) là một ví dụ cụ thể về cách áp dụng một hoặc nhiều nguyên tắc trong một ví thế giới thực. Trong khi các nguyên tắc mô tả lý thuyết củng cố phần mềm xanh, các mẫu là những lời khuyên thực tế mà các học viên phần mềm có thể sử dụng trong các ứng dụng phần mềm của họ ngày nay. Các mẫu là trung lập giữa người bán.
 
-A green software **practice** is a pattern applied to a specific vendor's product and informs practitioners about how to use that product in a more sustainable way. 
+Phần mềm xanh ** thực hành** là một mô hình áp dụng cho sản phẩm của một nhà cung cấp cụ thể và thông báo cho các học viên về cách sử dụng sản phẩm đó theo cách bền vững hơn.
 
-Practices should refer to patterns that should refer to principles.
+Thực tiễn nên đề cập đến các khuôn mẫu nên đề xuất các nguyên tắc.
 
-The green software foundation also publishes a [catalog of vendor-neutral green software patterns](https://patterns.greensoftware.foundation/) across various categories.
- 
+Green Software foundation cũng xuất bản một [danh mục các mẫu phần mềm xanh trung tính của nhà cung cấp] (https://patterns.greensoftware.foundation/) trên nhiều hạng mục khác nhau.
+
 ![Green Software Principles, Patterns, and Practices](./images/GSF_Principles_Patterns_Practices_v2.png "Green Software Principles, Patterns, and Practices")
