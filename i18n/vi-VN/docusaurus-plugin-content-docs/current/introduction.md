@@ -40,12 +40,12 @@ Mỗi chương sẽ giới thiệu một số khái niệm mới và giải thí
 
 Các lĩnh vực và nội dung chính của khoá học này mô tả các nguyên tắc của phần mềm xanh, một tập hợp các năng lực cốt lõi cần thiết để xác định, chạy và xây dựng phần mềm màu xanh.
 
-Phần mềm xanh [**pattern**] (https://patterns.greensoftware.foundation/) là một ví dụ cụ thể về cách áp dụng một hoặc nhiều nguyên tắc trong một ví thế giới thực. Trong khi các nguyên tắc mô tả lý thuyết củng cố phần mềm xanh, các mẫu là những lời khuyên thực tế mà các học viên phần mềm có thể sử dụng trong các ứng dụng phần mềm của họ ngày nay. Các mẫu là trung lập giữa người bán.
+Phần mềm xanh [**pattern**](https://patterns.greensoftware.foundation/) là một ví dụ cụ thể về cách áp dụng một hoặc nhiều nguyên tắc trong một ví thế giới thực. Trong khi các nguyên tắc mô tả lý thuyết củng cố phần mềm xanh, các mẫu là những lời khuyên thực tế mà các học viên phần mềm có thể sử dụng trong các ứng dụng phần mềm của họ ngày nay. Các mẫu là trung lập giữa người bán.
 
 Phần mềm xanh ** thực hành** là một mô hình áp dụng cho sản phẩm của một nhà cung cấp cụ thể và thông báo cho các học viên về cách sử dụng sản phẩm đó theo cách bền vững hơn.
 
 Thực tiễn nên đề cập đến các khuôn mẫu nên đề xuất các nguyên tắc.
 
-Green Software foundation cũng xuất bản một [danh mục các mẫu phần mềm xanh trung tính của nhà cung cấp] (https://patterns.greensoftware.foundation/) trên nhiều hạng mục khác nhau.
+Green Software foundation cũng xuất bản một [danh mục các mẫu phần mềm xanh trung tính của nhà cung cấp](https://patterns.greensoftware.foundation/) trên nhiều hạng mục khác nhau.
 
 ![Green Software Principles, Patterns, and Practices](./images/GSF_Principles_Patterns_Practices_v2.png "Green Software Principles, Patterns, and Practices")
